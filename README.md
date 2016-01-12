@@ -1,0 +1,1 @@
+# paginationpatterns.com
